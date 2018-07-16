@@ -1,0 +1,15 @@
+{
+  "name": "xunke-pc-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "webpack": "^4.16.0"
+  },
+  "dependencies": {
+    "ant-design-pro": "^2.0.0-beta.2",
+    "antd": "^3.7.0"
+  }
+}
